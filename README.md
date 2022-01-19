@@ -5,11 +5,13 @@
 
 ## 2. Functions
 
-## 3. About the programming
+## 3. Key findings
 
-### 3.1 Files
+## 4. About the programming
 
-### 3.2 Data
+### 4.1 Files
+
+### 4.2 Data
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
 
