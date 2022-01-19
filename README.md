@@ -1,12 +1,16 @@
 # railway-decision-support-system
 * Written by: Poon Athit S.
 * Technologies: VBA, User forms, Excel
-## Introduction
+## 1. Introduction
 
-## Functions
+## 2. Functions
 
-## Files
+## 3. About the programming
 
-## About the data
+### 3.1 Files
 
-To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
+### 3.2 Data
+
+### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
+
+All rights reserved 2022. All codes are developed and owned by Poon Athit S. or the metioned team member(s). If you use this code, please visit his LinkedIn and give him a skill endorsement in the aforementioned coding technologies and data analytics.
