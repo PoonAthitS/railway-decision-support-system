@@ -1,2 +1,3 @@
 # railway-decision-support-system
-test
+written by: Poon Athit Srimachand
+technologies: VBA, User forms, Excel
