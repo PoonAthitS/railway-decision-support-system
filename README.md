@@ -1,4 +1,4 @@
-# railway-decision-support-system
+# Railway decision support system
 * Written by: Poon Athit S.
 * Technologies: VBA, User forms, Excel
 ## 1. Introduction
