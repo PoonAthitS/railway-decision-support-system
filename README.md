@@ -1,5 +1,11 @@
 # railway-decision-support-system
-
-written by: Poon Athit Srimachand
-
-technologies: VBA, User forms, Excel
+* Written by: Poon Athit Srimachand
+* Technologies: VBA, User forms, Excel
+## Introduction
+---
+## Development
+---
+## Files
+---
+## About the data
+---
