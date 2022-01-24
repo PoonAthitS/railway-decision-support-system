@@ -25,7 +25,7 @@ After populating all stations and railway segments in the preceding functions, t
 
 * The outcomes are displayed in the "Optimal flows" sheet, with the maximum number of running trains displayed on the righthand side in red text and the entered origin and destination in blue. Each row contains information about the railway segment to which the algorithm decides to send the train, including its Station [From], Station [To], Number of running trains, Initial Capacity, Capacity left (remaining capacity after sending the train), and percentage capacity used. Moreover, if the railway section’s capacity is * fully utilised, the percentage cell will be automatically highlighted in green.
 
-* According to the photo, this is the example when we input the origin = Bristol Parkway station, destination = Eastleigh station. The result shows that the maximum running train sending from Bristol Parkway is 21 trains.
+* According to the photo, this is the example when we input the origin = Bristol Parkway station, destination = Eastleigh station. The result shows that the maximum running train that can be sent is 21 trains.
 
 ## 4. About the programming
 
