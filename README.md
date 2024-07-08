@@ -29,10 +29,7 @@ After populating all stations and railway segments in the preceding functions, t
 
 ## 4. About the programming
 
-### 4.1 Files
-The system is built in an Excel with VBA codes and user forms embeded: [Railway_decision_support_system_on_maximum_flow.xlsm](https://github.com/PoonAthitS/railway-decision-support-system/blob/main/Railway_decision_support_system_on_maximum_flow.xlsm)
-
-### 4.2 Data
+### Data
 We use the mock-up simplified list of Great Western Railway major segments and stations as provided within the XLSM file
 
 ### To learn more about Poon Athit S., visit his [LinkedIn profile](https://www.linkedin.com/in/athit-srimachand/)
